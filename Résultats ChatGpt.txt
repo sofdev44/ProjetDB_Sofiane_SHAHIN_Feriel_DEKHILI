@@ -1,0 +1,24 @@
+Parfait 👍 Je vais structurer la réponse en deux livrables distincts :
+
+1. *Les règles de gestion* (exprimées de manière claire, comme si c’était une personne qui décrit le fonctionnement de l’organisation sans notions informatiques).
+2. *Le dictionnaire de données brutes* (25–35 données, avec type et taille).
+
+---
+
+## 1. Règles de gestion de l’organisation événementielle
+
+* L’organisation recrute des chanteurs et chanteuses du monde arabe ainsi que des artistes internationaux pour participer au festival.
+* Chaque artiste possède des informations essentielles : nom, prénom, nationalité, style musical, notoriété ou classement dans son pays, et coordonnées professionnelles.
+* Un artiste peut participer à une ou plusieurs éditions du festival.
+* Le festival se déroule chaque année, avec une programmation d’artistes répartis sur plusieurs scènes.
+* Chaque concert est lié à une date, un horaire, une scène et un ou plusieurs artistes.
+* Les scènes du festival sont de tailles différentes et disposent de capacités maximales d’accueil du public.
+* La billetterie enregistre les ventes de tickets (catégorie, prix, mode de paiement, date d’achat).
+* Chaque billet est associé à un spectateur et à une catégorie (standard, VIP, pass complet, etc.).
+* L’organisation suit le nombre de spectateurs par concert et par scène afin de gérer la capacité et la sécurité.
+* Le festival bénéficie de sponsors et partenaires, avec lesquels des contrats sont établis (montant, durée, type de partenariat).
+* Les sponsors peuvent soutenir un ou plusieurs concerts, ou bien l’événement global.
+* L’organisation prend en charge la logistique des artistes : hébergement (hôtel, chambre, durée du séjour), transport (vol, navette, chauffeur), sécurité (agents assignés).
+* La communication et les médias sont suivis : chaque concert peut avoir une couverture médiatique (chaîne TV, radio, presse, plateformes digitales).
+* Les équipes techniques (son, lumière, sécurité, etc.) sont affectées à chaque scène selon les besoins de la programmation.
+* L’organisation établit un suivi financier : recettes de billetterie, apports des sponsors
