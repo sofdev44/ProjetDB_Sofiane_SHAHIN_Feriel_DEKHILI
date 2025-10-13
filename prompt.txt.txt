@@ -1,0 +1,21 @@
+Génère pour moi des requêtes SQL d’insertion pour remplir une base de données sur des festivals de musique arabe.
+
+La base contient les tables suivantes :
+- FESTIVAL (Id_Festival, f_nom, f_annee)
+- SCENE (Id_scene, s_nom, s_capacite)
+- ARTISTE (Id_Artiste, a_nom, a_prenom, a_nationalite, a_style_musical, a_notoriete, a_contact)
+- CONCERT (Id_Festival, Id_concert, c_date, c_heure, Id_scene)
+- SPECTATEUR (Id_spectateur, Prenom_spectateur, Nom_spectateur, Frequentation_spectateur)
+- BILLET (Id_billet, Id_spectateur, Id_Festival, Id_concert, Categorie_billet, Prix_billet, Mode_billet, Paiement_billet, Date_achat_billet)
+- SPONSOR (id_s, s_nom, s_type, s_montant, s_debut_contrat, s_fin_contrat, Id_Festival)
+- HEBERGEMENT (Id_hebergement, h_hebergement, h_hotel, h_adresse, h_duree, Id_Artiste)
+- TRANSPORT (Id_transport, t_type, t_numero, Id_Artiste)
+- SE_PRODUIT (Id_Festival, Id_concert, Id_Artiste)
+
+Les données doivent représenter des festivals et artistes arabes :
+- festivals situés dans des pays arabes (Maroc, Égypte, Tunisie, Liban, Émirats…)
+- artistes arabes réels ou fictifs avec styles variés (raï, pop arabe, chaâbi, tarab, rap)
+- années entre 2023 et 2025
+- prix de billets entre 20 et 120 euros
+- données cohérentes entre les tables (les clés étrangères doivent correspondre)
+- au moins 5 insertions par table
