@@ -1,7 +1,6 @@
--- ===========================================================
 --  Fichier : 3_insertion.sql
 --  Description : Insertion automatique de données - Festivals arabes
--- ===========================================================
+
 
 -- FESTIVAL
 INSERT INTO FESTIVAL (Id_Festival, f_nom, f_annee) VALUES
@@ -76,3 +75,4 @@ INSERT INTO SE_PRODUIT (Id_Festival, Id_concert, Id_Artiste) VALUES
 (2, 3, 3),
 (3, 4, 2),
 (3, 5, 4);
+
